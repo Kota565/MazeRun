@@ -16,25 +16,25 @@ Unityで制作した、ランダム生成される迷路を制限時間内に駆
 - UI切り替え、レコード保存、ヒント表示
 
 ## ソースコード構成
--TitleManager.cs 
--TitleMazeGenerator.cs 
--TitleRecordUI.cs 
--PlayerController.cs 
--PlayerStats.cs 
--StatusUI.cs 
--FollowCamera.cs 
--MazeDigGenerator.cs 
--Goal.cs 
--HintController.cs 
--Coin.cs 
--SpecialItem.cs 
--SpecialItemEffects.cs 
--BlinkUI.cs 
--CompassController.cs
--SEManager.cs 
--GameClearContoroller.cs 
--RecordManager.cs 
--UpgreadMenuContoroller.cs
+- TitleManager.cs 
+- TitleMazeGenerator.cs 
+- TitleRecordUI.cs 
+- PlayerController.cs 
+- PlayerStats.cs 
+- StatusUI.cs 
+- FollowCamera.cs 
+- MazeDigGenerator.cs 
+- Goal.cs 
+- HintController.cs 
+- Coin.cs 
+- SpecialItem.cs 
+- SpecialItemEffects.cs 
+- BlinkUI.cs 
+- CompassController.cs
+- SEManager.cs 
+- GameClearContoroller.cs 
+- RecordManager.cs 
+- UpgreadMenuContoroller.cs
 ## 制作
 - 林航太（ゲーム制作 / CG / ドット絵 / デバッグ / テストプレイ）
 
